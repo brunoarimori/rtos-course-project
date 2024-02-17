@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "stdio.h": "c",
+        "ultrasonic.h": "c",
+        "timers.h": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "mutex": "c",
+        "*.ipp": "c",
+        "type_traits": "c",
+        "cwifi.h": "c",
+        "event_groups.h": "c",
+        "esp_http_server.h": "c",
+        "esp_log.h": "c",
+        "gpio.h": "c",
+        "mqtt_client.h": "c",
+        "algorithm": "c",
+        "charconv": "c",
+        "*.bak": "c",
+        "nvs_flash.h": "c",
+        "cmqtt.h": "c"
+    },
+    "editor.tabSize": 2,
+    "cmake.configureOnOpen": true
+}
